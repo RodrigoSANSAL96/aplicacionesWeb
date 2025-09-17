@@ -1,0 +1,53 @@
+table{
+    text-align: center;
+    border-collapse: collapse;
+
+}
+.deteccion{
+    background-color: bisque;
+    width: 100px;
+}
+.rendimiento{
+    background-color: rgb(222, 160, 160);
+    width: 100px;
+}
+.funciones{
+    background-color: rgb(183, 210, 248);
+    width: 100px;
+}
+.rating{
+    background-color: rgb(218, 188, 246);
+    font-weight: bold;
+    width: 100px;
+}
+.verde{
+    background-color: rgb(152, 223, 152);
+}
+.amarillo{
+    background-color: goldenrod;
+}
+.gris{
+    background-color:rgb(147, 176, 176);
+}
+.grisclaro{
+    background-color: rgb(224, 221, 221);
+}
+.ultimo{
+    background-color:rgb(238, 238, 238);
+    border-top: none;
+}
+.primer{
+    text-align: right;
+    border-bottom: none;
+}
+td{
+    border: 1px solid black;
+}
+.bordernone{
+    border-top: none;
+    border-left: none;
+}
+.primer2{
+    border-top: none;
+    border-bottom: none;
+}
