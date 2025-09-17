@@ -1,0 +1,21 @@
+caption{
+        border: 1px solid white;
+        color: white;
+        background-color:rgb(145, 82, 38);
+}
+th{
+    border: 1px solid black;
+}
+.amarillo{
+    background-color: rgb(245, 245, 174);
+}
+.anaranjado{
+    background-color: rgb(234, 134, 67);
+}
+.claro{
+    background-color: rgb(255, 255, 227);
+}
+
+tr{
+    text-align: center;
+}
