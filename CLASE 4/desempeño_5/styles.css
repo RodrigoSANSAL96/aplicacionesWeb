@@ -1,0 +1,29 @@
+table{
+    text-align: center;
+}
+h2{
+    margin-left: 180px;
+}
+.gris{
+    background-color: grey;
+}
+
+.par{
+    background-color: rgb(85, 164, 85);
+}
+.LMSGI{
+    background-color: yellow;
+}
+.GBD{
+    background-color: burlywood;
+}
+.FH{
+    background-color: aquamarine;
+}
+
+.ISO{
+    background-color: blueviolet;
+}
+.FOL{
+    background-color: orangered;
+}
