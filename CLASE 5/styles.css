@@ -1,0 +1,54 @@
+*{
+    margin: 5px;
+    padding: 0px;
+}
+.principal{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: blue;
+    text-align: center;
+    color: white;
+    border-radius: 10px;
+    height: 50px;
+}
+nav{
+    background-color: rgb(255, 198, 64);
+    border-radius: 10px;
+}
+.botones{
+    display: flex;
+    margin: 5px;
+    justify-content: space-evenly;
+}
+.enlaces{
+    text-decoration: none;
+    color: white;
+}
+.body{
+    display: flex;
+}
+.bodyyellow{
+    background-color: white;
+    border-radius: 20px;
+    background-color: yellow;
+    width: 30%;
+}
+
+ul{
+    list-style: none;
+}
+.bodygreen{
+    background-color: greenyellow;
+    border-radius: 20px;
+    width: 70%;
+}
+
+footer{
+    background-color: red;
+    border-radius: 10px;
+}
+h3{
+    color: white;
+    text-align: center;
+}
